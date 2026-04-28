@@ -1,0 +1,14 @@
+C:\Users\AidaMusayevaNovumLLC\Desktop\WorkProjects\Abstracts\src\AbstrantTest\bin\Debug\net10.0\AbstrantTest.exe
+C:\Users\AidaMusayevaNovumLLC\Desktop\WorkProjects\Abstracts\src\AbstrantTest\bin\Debug\net10.0\AbstrantTest.deps.json
+C:\Users\AidaMusayevaNovumLLC\Desktop\WorkProjects\Abstracts\src\AbstrantTest\bin\Debug\net10.0\AbstrantTest.runtimeconfig.json
+C:\Users\AidaMusayevaNovumLLC\Desktop\WorkProjects\Abstracts\src\AbstrantTest\bin\Debug\net10.0\AbstrantTest.dll
+C:\Users\AidaMusayevaNovumLLC\Desktop\WorkProjects\Abstracts\src\AbstrantTest\bin\Debug\net10.0\AbstrantTest.pdb
+C:\Users\AidaMusayevaNovumLLC\Desktop\WorkProjects\Abstracts\src\AbstrantTest\obj\Debug\net10.0\AbstrantTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AidaMusayevaNovumLLC\Desktop\WorkProjects\Abstracts\src\AbstrantTest\obj\Debug\net10.0\AbstrantTest.AssemblyInfoInputs.cache
+C:\Users\AidaMusayevaNovumLLC\Desktop\WorkProjects\Abstracts\src\AbstrantTest\obj\Debug\net10.0\AbstrantTest.AssemblyInfo.cs
+C:\Users\AidaMusayevaNovumLLC\Desktop\WorkProjects\Abstracts\src\AbstrantTest\obj\Debug\net10.0\AbstrantTest.csproj.CoreCompileInputs.cache
+C:\Users\AidaMusayevaNovumLLC\Desktop\WorkProjects\Abstracts\src\AbstrantTest\obj\Debug\net10.0\AbstrantTest.dll
+C:\Users\AidaMusayevaNovumLLC\Desktop\WorkProjects\Abstracts\src\AbstrantTest\obj\Debug\net10.0\refint\AbstrantTest.dll
+C:\Users\AidaMusayevaNovumLLC\Desktop\WorkProjects\Abstracts\src\AbstrantTest\obj\Debug\net10.0\AbstrantTest.pdb
+C:\Users\AidaMusayevaNovumLLC\Desktop\WorkProjects\Abstracts\src\AbstrantTest\obj\Debug\net10.0\AbstrantTest.genruntimeconfig.cache
+C:\Users\AidaMusayevaNovumLLC\Desktop\WorkProjects\Abstracts\src\AbstrantTest\obj\Debug\net10.0\ref\AbstrantTest.dll
