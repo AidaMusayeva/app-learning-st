@@ -24,11 +24,13 @@ jobs:
           dotnet-version: '8.x'
 
       - name: Build with dotnet
-        run: dotnet build src/AbstrantTest/AbstrantTest.csproj --configuration Release
+        working-directory: src/AbstrantTest
+        run: dotnet build AbstrantTest.csproj --configuration Release
 
       - name: Publish with dotnet
-        run: dotnet publish src/AbstrantTest/AbstrantTest.csproj -c Release -o "${{ env.DOTNET_ROOT }}/myapp"
-
+        working-directory: src/AbstrantTest
+        run: dotnet publish AbstrantTest.csproj -c Release -o "${{ env.DOTNET_ROOT }}/myapp"
+  
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v4
         with:
